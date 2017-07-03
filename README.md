@@ -1,5 +1,6 @@
 # sberbank_kaggle
 The 15th place solution of Sberbank Contest on Kaggle https://www.kaggle.com/c/sberbank-russian-housing-market
+Kaggle Discussions thread: https://www.kaggle.com/c/sberbank-russian-housing-market/discussion/35700
 
 Models:
 
