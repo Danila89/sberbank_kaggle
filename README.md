@@ -23,3 +23,4 @@ And the output of models will be:
 6. model_1_output.csv - output of model_1_price_per_meter.ipynb
 7. model_2_output.csv - output of model_2_price.ipynb
 8. model_3_output.csv - output of model_3_price_kaggle.ipynb
+9. model_entire.csv - the weighted average, output of mixing_final_models.ipynb
